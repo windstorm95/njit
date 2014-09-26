@@ -1,4 +1,4 @@
-njit
+NJIT
 ====
 
-njit stuff
+Victor Chue - Computer Science Major
